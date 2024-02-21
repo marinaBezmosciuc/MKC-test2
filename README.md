@@ -1,6 +1,5 @@
 # MKC-test2
 
-LEts Update
 '''JavaScript
 
   useEffect(() => {
@@ -12,4 +11,7 @@ LEts Update
       setDarkSidenav(dispatch, isDarkMode);
       setDarkMode(dispatch, isDarkMode);
     }
+
+    LEts Update
+
   }, []);
